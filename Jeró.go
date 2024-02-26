@@ -5,5 +5,5 @@ func main() {
     hi()
 }
 func hi() {
-    fmt.Println("Hi guys")
+    fmt.Println("Hello guys")
 }
