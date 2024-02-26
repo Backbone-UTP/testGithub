@@ -1,9 +1,9 @@
-// Jero "hola parceros" code
+// Jero "hi guys" code
 package main
 import "fmt"
 func main() {
-    saludar()
+    hi()
 }
-func saludar() {
-    fmt.Println("Hablarlo parceros")
+func hi() {
+    fmt.Println("Hi guys")
 }
