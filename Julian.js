@@ -1,1 +1,1 @@
-console.log("Esto es una cadena");
+console.log("Esto es un array");
