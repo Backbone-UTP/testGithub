@@ -1,1 +1,1 @@
-console.log("hola compañeros");
+console.log("Hallo Partnernen, wie geht's? Julian modifiziert das");
