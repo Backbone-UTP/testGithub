@@ -1,4 +1,4 @@
-const message = "Hello world"
+let message = "Hello world"
 
 const greet = ()=>{
     console.log(message)
