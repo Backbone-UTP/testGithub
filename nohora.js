@@ -1,1 +1,1 @@
-console.log("me too");
+console.log("я теж");
