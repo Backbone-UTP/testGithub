@@ -1,3 +1,3 @@
 for (let i = 0; i < 100; i++) {
-    console.log("Juanjo es el mejor.");
+    console.log("Dur4cell es el mejor.");
 }
