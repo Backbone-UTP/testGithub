@@ -2,6 +2,6 @@
 
 #include <cstdio>
 int main() {
-  printf("hola mundo");
+  printf("Hello world");
   return 0;
 }
